@@ -39,12 +39,3 @@ body{
 .btn.prev{
     left: 10px;
 }
-/* 
-@media (min-width:1200px) {
-    .image-container{
-        height: 500px;
-        width: 500px;
-        overflow: hidden;
-        
-    }
-} */
